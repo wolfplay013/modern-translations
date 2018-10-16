@@ -230,7 +230,7 @@ return [
 
     // Trending Channels
 
-    "trendingchannels_top_registration" => "Registration",
+    "trendingchannels_top_registration" => "Signed Up",
     "trendingchannels_top_last"         => "Last Login",
     "trendingchannels_top_videos"       => "Videos",
     "trendingchannels_top_views"        => "Video Views",
@@ -885,10 +885,10 @@ return [
     "dash_stats_followers"      => "Followers",
     "dash_stats_comments"       => "Comments",
 
-    "dash_notif1"               => "Gemeinschafts Strike",
+    "dash_notif1"               => "Community Strike",
     "dash_notif2"               => "Copyright Strike",
-    "dash_notif3"               => "Warnung",
-    "dash_notif4"               => "Benachrichtigung",
+    "dash_notif3"               => "Alert",
+    "dash_notif4"               => "Notification",
 
     "dash_tip1"                 => "<h3>An eye for Statistics</h3>
                                     <div>

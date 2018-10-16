@@ -880,15 +880,14 @@ return [
     "dash_no_notifications"     => "Sie haben keine Benachrichtigungen",
     "dash_no_blog"              => "Es wurden noch keine Blog Beiträge geschreiben",
 
-
     "dash_stats_views"          => "Aufrufe",
     "dash_stats_followers"      => "Follower",
     "dash_stats_comments"       => "Kommentare",
 
-    "dash_notif1"               => "Community Strike",
+	"dash_notif1"               => "Gemeinschafts Strike",
     "dash_notif2"               => "Copyright Strike",
-    "dash_notif3"               => "Alert",
-    "dash_notif4"               => "Notification",
+    "dash_notif3"               => "Warnung",
+    "dash_notif4"               => "Benachrichtigung",
 
     "dash_tip1"                 => "<h3>Ein Gespür für Statistik</h3>
                                     <div>
