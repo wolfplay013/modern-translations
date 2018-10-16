@@ -231,12 +231,12 @@ return [
     // Trending Channels
 
     "trendingchannels_top_registration" => "Registration",
-    "trendingchannels_top_last"         => "Letztes Login",
+    "trendingchannels_top_last"         => "Last Login",
     "trendingchannels_top_videos"       => "Videos",
-    "trendingchannels_top_views"        => "Video Aufrufe",
+    "trendingchannels_top_views"        => "Video Views",
     "trendingchannels_top_followers"    => "Followers",
-    "trendingchannels_top_following"    => "Folgt",
-    "trendingchannels_top_friends"      => "Freunde",
+    "trendingchannels_top_following"    => "Following",
+    "trendingchannels_top_friends"      => "Friends",
 
     "trendingchannels_title"            => "Trending Everywhere (Click to Play)",
     "trendingchannels_title2"           => "Trending in [category]en (Click to Play)",
