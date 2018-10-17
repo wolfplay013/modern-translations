@@ -20,6 +20,9 @@ return [
     "follow"				=> "Follow",
     "unfollow"				=> "Unfollow",
 
+    "current_language"      => "<h3>Your Language is <span style=\"text-decoration:underline\">[language]</span></h3>
+                                <div>You can change the language of VidLii in <a href=\"/settings\">Settings</a> if you want!</div>",
+
 
     // Channel Types
 
