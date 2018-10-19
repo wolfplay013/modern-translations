@@ -234,7 +234,7 @@ return [
     "trendingchannels_top_last"         => "Ultimo Login",
     "trendingchannels_top_videos"       => "Videos",
     "trendingchannels_top_views"        => "Visualizações",
-    "trendingchannels_top_followers"    => "Followers",
+    "trendingchannels_top_followers"    => "Seguidores",
     "trendingchannels_top_following"    => "Seguindo",
     "trendingchannels_top_friends"      => "Amigos",
 
@@ -818,7 +818,7 @@ return [
     "guide_impersonation_txt"	=> "Não se passe por alguém. Seja uma celebridade da internet, uma celebridade regular ou alguém que você conhece na vida real. Afirme claramente que você não é eles.",
 
     "guide_spamming"			=> "Spamming/Enganoso",
-    "guide_spamming_txt"		=> "Everyone hates spam. Don't create misleading descriptions, tags, titles or thumbnails in order to increase views. It's not okay to post large amounts of untargeted, unwanted or repetitive content, including comments and private messages.",
+    "guide_spamming_txt"		=> "Todo mundo odeia spam. Não crie descrições, tags, títulos ou miniaturas enganosos para aumentar as visualizações. Não é permitido publicar grandes quantidades de conteúdo não direcionado, indesejado ou repetitivo, incluindo comentários e mensagens privadas. ",
 
     "guide_advert"				=> "Propaganda",
     "guide_advert_txt"			=> "Anúncios para serviços ou websites em vídeo ou formulário de comentários, a menos que sejam uma resposta direta a alguém que não esteja relacionado a esse site/serviço.",
@@ -826,7 +826,7 @@ return [
     "guide_bans"				=> "Banimentos e Blocks",
     "guide_bans_txt"			=> "Depois de ter sido banido ou bloqueado por alguém, você não tem permissão para possuir ou fazer login em nenhuma conta do VidLii mesmo que tenha sido criada depois de ter sido banida ou bloqueada, mesmo que tenha sido criada por outra pessoa. Pessoas que lhe dá acesso pode ser punido da mesma maneira que você foi.",
 
-    "guide_community"			=> "VidLii is for the community!",
+    "guide_community"			=> "O VidLii é para a comunidade!",
     "guide_community_txt"		=> "
     								<div>
 						                <div>Lembre-se que esta é sua comunidade! Todo e qualquer usuário do VidLii faz o site o que é, então não tenha medo de entrar e se envolver!</div>
@@ -841,22 +841,22 @@ return [
 	",
 	// Account
 
-	"ac_menu_dashboard"			=> "Dashboard",
-	"ac_menu_channel"			=> "Channel",
-	"ac_menu_community"			=> "Community",
-	"ac_menu_account"			=> "Account",
+	"ac_menu_dashboard"			=> "Painel de Controle",
+	"ac_menu_channel"			=> "Canal",
+	"ac_menu_community"			=> "Comunidade",
+	"ac_menu_account"			=> "Conta",
 	"ac_menu_analytics"			=> "Analytics",
-	"ac_menu_privacy"			=> "Privacy",
-	"ac_menu_email"				=> "E-Mail Settings",
+	"ac_menu_privacy"			=> "Privacidade",
+	"ac_menu_email"				=> "Configurações de E-Mail",
 
     "ac_top_videos"             => "Videos",
-    "ac_top_views"              => "Video Views",
-    "ac_top_viewstoday"         => "Views Today",
-    "ac_top_followers"          => "Followers",
-    "ac_top_followerstoday"     => "Followers Today",
+    "ac_top_views"              => "Visualizações",
+    "ac_top_viewstoday"         => "Visualizações Hoje",
+    "ac_top_followers"          => "Seguidores",
+    "ac_top_followerstoday"     => "Seguidores Hoje",
     "ac_top_thumbs"             => "Thumbs Up",
-    "ac_top_thumbstoday"        => "Thumbs Up Today",
-    "ac_top_edit"               => "Edit",
+    "ac_top_thumbstoday"        => "Thumbs Up Hoje",
+    "ac_top_edit"               => "Editar",
 
 
 	// Content

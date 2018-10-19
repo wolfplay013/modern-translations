@@ -160,7 +160,7 @@ return [
 
     // Homepage
 
-    "home_being_watched"    => "Vídeos que se están visualizándose",
+    "home_being_watched"    => "Vídeos visualizándose en este momento",
     "home_trending_videos"  => "Tendencias",
     "home_recommended"      => "Recomendados",
     "home_trending_channels"=> "Canales populares",
@@ -606,7 +606,7 @@ return [
     "video_comments_write_btn1"	=> "AÑADIR COMENTARIO",
     "video_comments_write_btn2"	=> "CANCELAR",
     "video_comments_reply"		=> "Contestar",
-    "video_comments_flag"		=> "Repotrar",
+    "video_comments_flag"		=> "Reportar",
     "video_comments_unflag"     => "Reportado",
     "video_comments_pin"		=> "Fijar/dejar de fijar comentario",
     "video_comments_delete"		=> "Eliminar comentario",
