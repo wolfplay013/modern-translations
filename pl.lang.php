@@ -172,101 +172,101 @@ return [
 
     // Featured Videos
 
-    "featuredvideos_title"  => "Featured Videos",
-    "featuredvideos_text"   => "Featured videos are videos which our Staff thinks are high quality and deserve to be seen. We try to feature different types of videos so no certain type of content is favored. You can recommend us videos to feature under the \"Share\" button on the video page.",
-    "featuredvideos_new"    => "Newest to Oldest",
-    "featuredvideos_old"    => "Oldest to Newest",
+    "featuredvideos_title"  => "Promowane filmy",
+    "featuredvideos_text"   => "Polecane filmy to filmy, które zdaniem naszych pracowników są wysokiej jakości i zasługują na uwagę. Staramy się wyświetlać różne typy filmów, więc nie preferujemy żadnego rodzaju treści. Możesz polecić nam filmy wideo, które będą dostępne w ramach przycisku \"Udostępnij\" na stronie video.",
+    "featuredvideos_new"    => "Od najnowszego do najstarszego",
+    "featuredvideos_old"    => "Od najstarszego do najnowszego",
 
 
     // Following
 
-    "follow_following"      => "Following",
-    "follow_recent_videos"  => "Most Recent Videos",
-    "follow_recent_blogs"   => "Most Recent Blogs",
-    "follow_recent_activity"=> "Most Recent Activity",
-    "follow_up_videos"      => "Videos",
-    "follow_up_blogs"       => "Blogs",
-    "follow_up_activity"    => "Activity",
-    "follow_nobody"         => "You follow nobody at the moment...",
+    "follow_following"      => "Obserwowani",
+    "follow_recent_videos"  => "Najnowsze filmy",
+    "follow_recent_blogs"   => "Najnowsze wpisy na blogu",
+    "follow_recent_activity"=> "Ostatnia aktywność",
+    "follow_up_videos"      => "Filmy",
+    "follow_up_blogs"       => "Blogi",
+    "follow_up_activity"    => "Aktywność",
+    "follow_nobody"         => "Nie obserwujesz nikogo w tej chwili...",
 
-    "follow_name_no_videos" => "[name] hasn't uploaded any videos yet!",
-    "follow_no_videos"      => "Your followed channels haven't uploaded any videos yet!",
+    "follow_name_no_videos" => "[name] nie dodał jeszcze nowych filmów!",
+    "follow_no_videos"      => "Twoje obserwowane kanały nie przesłały jeszcze żadnych filmów!",
 
-    "follow_name_no_blogs"  => "[name] hasn't written any blog posts yet!",
-    "follow_no_blogs"       => "Your followed channels haven't written blog posts yet!",
+    "follow_name_no_blogs"  => "[name] nie dodał żadnych wpisów na blogu!",
+    "follow_no_blogs"       => "Twoje obserwowane kanały nie napisały jeszcze wpisów na blogu!",
 
-    "follow_name_no_active" => "[name] hasn't been active yet!",
-    "follow_no_active"      => "Your followed channels haven't been active yet!",
+    "follow_name_no_active" => "[name] nie został zaktywowany!",
+    "follow_no_active"      => "Twoje obserwowane kanały nie były jeszcze aktywne!",
 
 
     // All Videos
 
-    "allvideos_categories"      => "Categories",
-    "allvideos_newest"          => "Newest",
-    "allvideos_viewed"          => "Most Viewed",
-    "allvideos_discussed"       => "Most Discussed",
-    "allvideos_rated"           => "Best Rated",
+    "allvideos_categories"      => "Kategorie",
+    "allvideos_newest"          => "Najnowsze",
+    "allvideos_viewed"          => "Najczęściej oglądane",
+    "allvideos_discussed"       => "Najczęściej dyskutowane",
+    "allvideos_rated"           => "Najczęściej oceniane",
 
-    "allvideos_title_latest"    => "Latest",
-    "allvideos_title_views"     => "Most Viewed",
-    "allvideos_title_discuss"   => "Most Discussed",
-    "allvideos_title_rated"     => "Best Rated",
+    "allvideos_title_latest"    => "Najnowsze",
+    "allvideos_title_views"     => "Najczęściej oglądane",
+    "allvideos_title_discuss"   => "Najczęściej dyskutowane",
+    "allvideos_title_rated"     => "Najczęściej oceniane",
 
-    "allvideos_title_latest2"   => "Latest Videos in [category]",
-    "allvideos_title_views2"    => "Most Viewed Videos in [category]",
-    "allvideos_title_discuss2"  => "Most Discussed Videos in [category]",
-    "allvideos_title_rated2"    => "Best Rated Videos in [category]",
+    "allvideos_title_latest2"   => "Najnowsze filmy w [category]",
+    "allvideos_title_views2"    => "Najczęściej oglądane w [category]",
+    "allvideos_title_discuss2"  => "Najczęściej dyskutowane w [category]",
+    "allvideos_title_rated2"    => "Najczęściej oceniane w [category]",
 
-    "allvideos_no"              => "No Videos found",
+    "allvideos_no"              => "Nie znaleziono żadnych filmów",
 
-    "allvideos_date_today"      => "Today",
-    "allvideos_date_week"       => "This Week",
-    "allvideos_date_month"      => "This Month",
-    "allvideos_date_year"       => "This Year",
-    "allvideos_date_all"        => "All Time",
+    "allvideos_date_today"      => "Dziś",
+    "allvideos_date_week"       => "W tym tygodniu",
+    "allvideos_date_month"      => "W tym miesiącu",
+    "allvideos_date_year"       => "W tym roku",
+    "allvideos_date_all"        => "Cały czas",
 
-    "allvideos_title"           => "[what] Videos",
+    "allvideos_title"           => "Filmy [what]",
 
 
     // Trending Channels
 
-    "trendingchannels_top_registration" => "Registration",
-    "trendingchannels_top_last"         => "Letztes Login",
-    "trendingchannels_top_videos"       => "Videos",
-    "trendingchannels_top_views"        => "Video Aufrufe",
-    "trendingchannels_top_followers"    => "Followers",
-    "trendingchannels_top_following"    => "Folgt",
-    "trendingchannels_top_friends"      => "Freunde",
+    "trendingchannels_top_registration" => "Rejestracja",
+    "trendingchannels_top_last"         => "Ostatnie logowanie",
+    "trendingchannels_top_videos"       => "Filmy",
+    "trendingchannels_top_views"        => "Wyświetlenia filmików",
+    "trendingchannels_top_followers"    => "Obserwowani",
+    "trendingchannels_top_following"    => "Obserujący",
+    "trendingchannels_top_friends"      => "Przyjaciele",
 
-    "trendingchannels_title"            => "Trending Everywhere (Click to Play)",
-    "trendingchannels_title2"           => "Trending in [category]en (Click to Play)",
+    "trendingchannels_title"            => "Popularne wszędzie (naciśnij, aby puścić)",
+    "trendingchannels_title2"           => "Popularne w [category] (naciśnij, aby puścić)",
 
 
 
     // All Channels
 
-    "allchannels_categories"        => "Categories",
-    "allchannels_viewed"            => "Most Viewed",
-    "allchannels_followed"          => "Most Followed",
-    "allchannels_liked"             => "Most Likes",
+    "allchannels_categories"        => "Kategorie",
+    "allchannels_viewed"            => "Najczęściej oglądane",
+    "allchannels_followed"          => "Najczęściej obserwowane",
+    "allchannels_liked"             => "Najbardziej lubiane",
 
-    "allchannels_title_views"       => "Most Viewed",
-    "allchannels_title_follows"     => "Most Followed",
-    "allchannels_title_liked"       => "Most Liked",
+    "allchannels_title_views"       => "Najczęściej oglądane",
+    "allchannels_title_follows"     => "Najczęściej obserwowane",
+    "allchannels_title_liked"       => "Najbardziej lubiane",
 
-    "allchannels_title_views2"      => "Most Viewed [type]s",
-    "allchannels_title_follows2"    => "Most Followed [type]s",
-    "allchannels_title_liked2"      => "Most Liked [type]s",
+    "allchannels_title_views2"      => "Najczęściej oglądane [type]",
+    "allchannels_title_follows2"    => "Najczęściej obserwowane [type]",
+    "allchannels_title_liked2"      => "Najbardziej lubiane [type]",
 
-    "allchannels_no"                => "No Channels found",
+    "allchannels_no"                => "Nie znaleziono kanału",
 
-    "allchannels_date_today"        => "Today",
-    "allchannels_date_week"         => "This Week",
-    "allchannels_date_month"        => "This Month",
-    "allchannels_date_year"         => "This Year",
-    "allchannels_date_all"          => "All Time",
+    "allchannels_date_today"        => "Dziś",
+    "allchannels_date_week"         => "W tym tygodniu",
+    "allchannels_date_month"        => "W tym miesiącu",
+    "allchannels_date_year"         => "W tym roku",
+    "allchannels_date_all"          => "Cały czas",
 
-    "all_channels_title"            => "Channels",
+    "all_channels_title"            => "Kanały",
     "all_channels_title2"           => "[what] [category]",
     
     
