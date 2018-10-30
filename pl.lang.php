@@ -19,7 +19,8 @@ return [
     "sort_by"               => "SORTUJ WEDŁUG",
     "follow"				=> "Obserwuj",
     "unfollow"				=> "Przestań obserwować",
-
+    "current_language"      => "<h3>Twój ustawiony język to <span style=\"text-decoration:underline\">[language]</span></h3>
+                                <div>Możesz go zmienić w <a href=\"/settings\">Ustawieniach</a> jeśli chcesz!</div>",
 
     // Channel Types
 
