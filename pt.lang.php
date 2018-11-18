@@ -113,23 +113,23 @@ return [
     // Modals (Pop-Ups)
 
     "modal_sign_signin"         => "Login",
-    "modal_sign_signin_text"    => "Entre em uma conta existente do VidLii.",
+    "modal_sign_signin_text"    => "Entre em uma conta existente do Vlare.",
     "modal_sign_signin_email"   => "E-Mail",
     "modal_sign_signin_password"=> "Senha",
     "modal_sign_signin_button"  => "LOG IN",
-    "modal_sign_signin_new"     => "Novo no VidLii?",
+    "modal_sign_signin_new"     => "Novo no Vlare?",
     "modal_sign_signin_forgot"  => "Esqueceu sua Senha?",
     "modal_sign_signin_forgot_!"=> "Resetar",
 
     "modal_sign_signup"         => "Registrar-se",
-    "modal_sign_signup_text"    => "Criar uma Conta Nova do VidLii.",
+    "modal_sign_signup_text"    => "Criar uma Conta Nova do Vlare.",
     "modal_sign_signup_name"    => "Nome da Conta",
     "modal_sign_signup_name_no"	=> "Nomes não podem conter: (' \ / < >)",
     "modal_sign_signup_email"   => "E-Mail",
     "modal_sign_signup_pass1"   => "Senha",
     "modal_sign_signup_pass2"   => "Repitir Senha",
     "modal_sign_signup_contin"  => "CONTINUAR",
-    "modal_sign_signup_already" => "Já tem uma conta no VidLii?",
+    "modal_sign_signup_already" => "Já tem uma conta no Vlare?",
     "modal_sign_signup_birth"   => "Data de Nascimento",
     "modal_sign_signup_who"     => "Quem é Você?",
     "modal_sign_signup_country" => "Qual é o Seu País?",
@@ -552,14 +552,14 @@ return [
     // Settings
 
     "settings_attention_up"     => "Atenção",
-    "settings_attention"        => "Como essas configurações não exigem que você faça o login, usamos cookies para identificar quem você é e quais configurações você usa. Então, se você limpar cookies através do seu navegador, suas configurações no VidLii também desaparecerão.",
+    "settings_attention"        => "Como essas configurações não exigem que você faça o login, usamos cookies para identificar quem você é e quais configurações você usa. Então, se você limpar cookies através do seu navegador, suas configurações no Vlare também desaparecerão.",
     "settings_visual"           => "Configurações Visuais",
     "settings_technical"        => "Configurações Técnicas",
     "settings_language"         => "Idioma",
     "settings_light"            => "Modo Claro",
     "settings_dark"             => "Modo Escuro",
     "settings_feather_up"       => "Modo Leve",
-    "settings_feather"          => "O modo Leve permite que você assista vídeos do VidLii sem problemas, mesmo nos dispositivos menos potentes, tornando-o muito leve.",
+    "settings_feather"          => "O modo Leve permite que você assista vídeos do Vlare sem problemas, mesmo nos dispositivos menos potentes, tornando-o muito leve.",
     "settings_mobile_up"        => "Escala Móvel",
     "settings_mobile"           => "Se desativado, mostra as páginas no celular como se você estivesse usando um computador.",
     "settings_turbo_up"         => "Carregamento Turbo",
@@ -806,7 +806,7 @@ return [
 
     // Guidelines
     "guide_nudity"				=> "Nudez e Conteúdo Sexual",
-    "guide_nudity_txt"			=> "O VidLii não é um site pornô. Desculpe desapontá-lo se você estava procurando por um e chegou aqui por acidente. Isso significa que atos sexuais ou nudez total para propósitos não educacionais não são permitidos. A mesma conta para animação! <br> Especialmente, não permitimos nada relacionado a sexo com crianças, e encaminharemos isso para a lei, caso isso aconteça..",
+    "guide_nudity_txt"			=> "O Vlare não é um site pornô. Desculpe desapontá-lo se você estava procurando por um e chegou aqui por acidente. Isso significa que atos sexuais ou nudez total para propósitos não educacionais não são permitidos. A mesma conta para animação! <br> Especialmente, não permitimos nada relacionado a sexo com crianças, e encaminharemos isso para a lei, caso isso aconteça..",
 
     "guide_danger"				=> "Conteúdo Chocante/Perigoso",
     "guide_danger_txt"			=> "O conteúdo que serve apenas para chocar você também não é permitido. (Decapitações, suicídios, assassinatos etc.).Não é permitido relatar tais atos e mostrar vídeos apropriados para a TV americana. <br> Também não permitimos vídeos que incentivem coisas perigosas, especialmente quando o alvo do incentivo são os jovens..",
@@ -824,19 +824,19 @@ return [
     "guide_advert_txt"			=> "Anúncios para serviços ou websites em vídeo ou formulário de comentários, a menos que sejam uma resposta direta a alguém que não esteja relacionado a esse site/serviço.",
 
     "guide_bans"				=> "Banimentos e Blocks",
-    "guide_bans_txt"			=> "Depois de ter sido banido ou bloqueado por alguém, você não tem permissão para possuir ou fazer login em nenhuma conta do VidLii mesmo que tenha sido criada depois de ter sido banida ou bloqueada, mesmo que tenha sido criada por outra pessoa. Pessoas que lhe dá acesso pode ser punido da mesma maneira que você foi.",
+    "guide_bans_txt"			=> "Depois de ter sido banido ou bloqueado por alguém, você não tem permissão para possuir ou fazer login em nenhuma conta do Vlare mesmo que tenha sido criada depois de ter sido banida ou bloqueada, mesmo que tenha sido criada por outra pessoa. Pessoas que lhe dá acesso pode ser punido da mesma maneira que você foi.",
 
-    "guide_community"			=> "O VidLii é para a comunidade!",
+    "guide_community"			=> "O Vlare é para a comunidade!",
     "guide_community_txt"		=> "
     								<div>
-						                <div>Lembre-se que esta é sua comunidade! Todo e qualquer usuário do VidLii faz o site o que é, então não tenha medo de entrar e se envolver!</div>
+						                <div>Lembre-se que esta é sua comunidade! Todo e qualquer usuário do Vlare faz o site o que é, então não tenha medo de entrar e se envolver!</div>
 						                <ul style=\"line-height:22px\">
 						                    <li>Divirta-se com o site. Há muito para ver aqui, e muitas pessoas fazendo coisas incríveis, uma delas pode ser você! Equipamentos ficando mais baratos e mais fáceis de usar o tempo todo, então mergulhe e aproveite.</li>
 						                    <li>Se você sentir que alguém está quebrando as regras, não tenha medo de denunciá-las. Eles não saberão quem os denunciou</li>
-						                    <li>Seguir as regras faz do VidLii uma experiência melhor para todos.</li>
+						                    <li>Seguir as regras faz do Vlare uma experiência melhor para todos.</li>
 						                </ul>
 						                <div style=\"margin-bottom:8px\">That's it! Obrigado pela leitura!</div>
-						                <div>~ A moderação do Vidlii</div>
+						                <div>~ A moderação do Vlare</div>
 						            </div>
 	",
 	// Account
@@ -874,8 +874,8 @@ return [
     "dash_customize_comments"   => "Comentarios de Vídeos",
     "dash_customize_stats"      => "Estatísticas Desta Semana",
     "dash_customize_notif"      => "Notificações",
-    "dash_customize_blog"       => "Blog do Vidlii",
-    "dash_customize_tips"       => "Dicas e Truques do VidLii",
+    "dash_customize_blog"       => "Blog do Vlare",
+    "dash_customize_tips"       => "Dicas e Truques do Vlare",
 
     "dash_no_comments"          => "Você não tem comentarios",
     "dash_no_notifications"     => "Você não tem Notificações",
@@ -900,7 +900,7 @@ return [
                                     </div>",
     "dash_tip3"                 => "<h3>Compartilhe seus vídeos</h3>
                                     <div>
-                                      Compartilhar seus vídeos com pessoas fora do VidLii não apenas aumenta sua contagem de visualizações, mas também cria novos membros e seguidores em potencial.
+                                      Compartilhar seus vídeos com pessoas fora do Vlare não apenas aumenta sua contagem de visualizações, mas também cria novos membros e seguidores em potencial.
                                     </div>",
 
     "dash_comment_on"           => "On [title]"

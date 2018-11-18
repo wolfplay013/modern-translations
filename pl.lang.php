@@ -114,7 +114,7 @@ return [
     // Modals (Pop-Ups)
 
     "modal_sign_signin"         => "Zaloguj się",
-    "modal_sign_signin_text"    => "Zaloguj się do istniejącego konta VidLii.",
+    "modal_sign_signin_text"    => "Zaloguj się do istniejącego konta Vlare.",
     "modal_sign_signin_email"   => "E-Mail",
     "modal_sign_signin_password"=> "Hasło",
     "modal_sign_signin_button"  => "ZALOGUJ SIĘ",
@@ -123,7 +123,7 @@ return [
     "modal_sign_signin_forgot_!"=> "Zrestartuj je",
 
     "modal_sign_signup"         => "Zarejestruj się",
-    "modal_sign_signup_text"    => "Utwórz nowe konto na serwisie VidLii.",
+    "modal_sign_signup_text"    => "Utwórz nowe konto na serwisie Vlare.",
     "modal_sign_signup_name"    => "Nazwa użytkownika",
     "modal_sign_signup_name_no"	=> "Nazwa użytkownika nie może zawierać: (' \ / < >)",
     "modal_sign_signup_email"   => "E-Mail",
@@ -554,7 +554,7 @@ return [
     // Settings
 
     "settings_attention_up"     => "Uwaga",
-    "settings_attention"        => "Odkąd do zmiany ustawieć nie potrzeba konta, używamy cookies do identyfikacji, kim jesteś. Więc wyczyść ciasteczka przez twoją przeglądarkę, to ustawienia VidLii też znikną.",
+    "settings_attention"        => "Odkąd do zmiany ustawieć nie potrzeba konta, używamy cookies do identyfikacji, kim jesteś. Więc wyczyść ciasteczka przez twoją przeglądarkę, to ustawienia Vlare też znikną.",
     "settings_visual"           => "Ustawienia wizualne",
     "settings_technical"        => "Ustawienia techniczne",
     "settings_language"         => "Język",
@@ -809,7 +809,7 @@ return [
 
     // Guidelines
     "guide_nudity"				=> "Nagość i materiały dla dorosłych",
-    "guide_nudity_txt"			=> "VidLii to nie strona z porno. Przepraszamy, jeśli takowego szukałeś i natrafiłeś na tą stronę. To znaczy, że seks i pełna nagość dla celów nieedukacyjnych jest tu zakazana. To samo tyczy się animacji! <br> Szczególnie zakazane są wszelkie materiały erotyczne związane z dziećmi i będziemy zgłaszać takie przypadki.",
+    "guide_nudity_txt"			=> "Vlare to nie strona z porno. Przepraszamy, jeśli takowego szukałeś i natrafiłeś na tą stronę. To znaczy, że seks i pełna nagość dla celów nieedukacyjnych jest tu zakazana. To samo tyczy się animacji! <br> Szczególnie zakazane są wszelkie materiały erotyczne związane z dziećmi i będziemy zgłaszać takie przypadki.",
 
     "guide_danger"				=> "Szokujące/dramatyczne materiały",
     "guide_danger_txt"			=> "Materiały, które mają szokować też są zakazane. (Ścięcia, samobójstwa, morderstwa itp.). Zgłaszanie takich aktów i pokazywanie odpowiednich materiałów dla telewizji amerykańskiej jest w porządku.<br>Nie zezwalamy też na filmy, które zachęcają do robienia niebezpiecznych rzeczy, zwłaszcza gdy celem są młodzi ludzie.",
@@ -827,20 +827,20 @@ return [
     "guide_advert_txt"			=> "Reklamy dotyczące usług lub witryn internetowych w postaci filmów lub komentarzy, chyba że są bezpośrednią odpowiedzią do kogoś niezwiązengo z tą uslługą, są niedozwolone.",
 
     "guide_bans"				=> "Bany i blokowania",
-    "guide_bans_txt"			=> "Po tym, jak zostaniesz zbanowany lub zablokowany, nie możesz posiadać ani zalogować się na żadne konto VidLii, które zostało utworzone po zbanowaniu lub zablokowaniu, nawet jeśli zostało utworzone przez kogoś innego.<br>Osoby, które dają ci dostęp, mogą zostać ukarane w taki sam sposób jak ty.",
+    "guide_bans_txt"			=> "Po tym, jak zostaniesz zbanowany lub zablokowany, nie możesz posiadać ani zalogować się na żadne konto Vlare, które zostało utworzone po zbanowaniu lub zablokowaniu, nawet jeśli zostało utworzone przez kogoś innego.<br>Osoby, które dają ci dostęp, mogą zostać ukarane w taki sam sposób jak ty.",
 
-    "guide_community"			=> "VidLii jest dla społeczności!",
+    "guide_community"			=> "Vlare jest dla społeczności!",
     "guide_community_txt"		=> "
     								<div>
-						                <div>Pamiętaj, że to jest twoja społeczność! Każdy użytkownik VidLii sprawia, że ​​strona jest taka, jaka jest, więc nie bój się zagłębiać i angażować!
+						                <div>Pamiętaj, że to jest twoja społeczność! Każdy użytkownik Vlare sprawia, że ​​strona jest taka, jaka jest, więc nie bój się zagłębiać i angażować!
                                         </div>
 						                <ul style=\"line-height:22px\">
 						                    <li>Baw się dobrze ze stroną. Jest tu wiele do zobaczenia, a wielu ludzi robi niesamowite rzeczy, z których jedna może być Tobą! Sprzęt jest coraz tańszy i łatwiejszy w obsłudze, więc baw się i miej radość z tworzenia!</li>
 						                    <li>Jeśli czujesz, że ktoś łamie zasady, nie bój się ich zgłaszać. Nie będą wiedzieć, kto je zgłosił!</li>
-						                    <li>Przestrzeganie zasad sprawia, że ​​VidLii jest lepsze dla wszystkich.</li>
+						                    <li>Przestrzeganie zasad sprawia, że ​​Vlare jest lepsze dla wszystkich.</li>
 						                </ul>
 						                <div style=\"margin-bottom:8px\">To wszystko! Dziękujemy za przeczytanie!</div>
-						                <div>~ Moderacja VidLii</div>
+						                <div>~ Moderacja Vlare</div>
 						            </div>
 	",
 	// Account
@@ -878,8 +878,8 @@ return [
     "dash_customize_comments"   => "Komentarze pod filmami",
     "dash_customize_stats"      => "Statystyki tego tygodnia",
     "dash_customize_notif"      => "Powiadomienia",
-    "dash_customize_blog"       => "Blog VidLii",
-    "dash_customize_tips"       => "Wskazówki i triki VidLii",
+    "dash_customize_blog"       => "Blog Vlare",
+    "dash_customize_tips"       => "Wskazówki i triki Vlare",
 
     "dash_no_comments"          => "Nie masz komentarzy",
     "dash_no_notifications"     => "Nie masz powiadomień",
@@ -904,7 +904,7 @@ return [
                                     </div>",
     "dash_tip3"                 => "<h3>Udostępniaj filmy</h3>
                                     <div>
-                                      Udostępnianie filmów wideo osobom spoza VidLii nie tylko zwiększa liczbę wyświetleń, ale także tworzy nowych potencjalnych członków i obserwujących.
+                                      Udostępnianie filmów wideo osobom spoza Vlare nie tylko zwiększa liczbę wyświetleń, ale także tworzy nowych potencjalnych członków i obserwujących.
                                     </div>",
 
     "dash_comment_on"           => "W [title]"

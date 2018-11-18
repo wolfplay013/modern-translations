@@ -21,7 +21,7 @@ return [
     "unfollow"				=> "Entfolgen",
 
     "current_language"      => "<h3>Ihre Sprache ist <span style=\"text-decoration:underline\">[language]</span></h3>
-                                <div>Sie können die Sprache von VidLii unter <a href=\"/settings\">Einstellungen</a> ändern!</div>",
+                                <div>Sie können die Sprache von Vlare unter <a href=\"/settings\">Einstellungen</a> ändern!</div>",
 
 
     // Channel Types
@@ -117,23 +117,23 @@ return [
     // Modals (Pop-Ups)
 
     "modal_sign_signin"         => "Anmelden",
-    "modal_sign_signin_text"    => "Melden dich mit einen bestehenden VidLii Account an.",
+    "modal_sign_signin_text"    => "Melden dich mit einen bestehenden Vlare Account an.",
     "modal_sign_signin_email"   => "E-Mail",
     "modal_sign_signin_password"=> "Passwort",
     "modal_sign_signin_button"  => "ANMELDEN",
-    "modal_sign_signin_new"     => "Neu auf VidLii?",
+    "modal_sign_signin_new"     => "Neu auf Vlare?",
     "modal_sign_signin_forgot"  => "Passwort vergessen?",
     "modal_sign_signin_forgot_!"=> "Neu beantragen",
 
     "modal_sign_signup"         => "Registriereren",
-    "modal_sign_signup_text"    => "Einen neuen VidLii Account erstellen.",
+    "modal_sign_signup_text"    => "Einen neuen Vlare Account erstellen.",
     "modal_sign_signup_name"    => "Anzeigename",
     "modal_sign_signup_name_no" => "Darf: (' \ / < >) nicht enthalten",
     "modal_sign_signup_email"   => "E-Mail",
     "modal_sign_signup_pass1"   => "Passwort",
     "modal_sign_signup_pass2"   => "Passwort wiederholen",
     "modal_sign_signup_contin"  => "WEITER",
-    "modal_sign_signup_already" => "Haben Sie schon ein VidLii Account?",
+    "modal_sign_signup_already" => "Haben Sie schon ein Vlare Account?",
     "modal_sign_signup_birth"   => "Ihr Geburtstag",
     "modal_sign_signup_who"     => "Was sind Sie?",
     "modal_sign_signup_country" => "Woher kommen Sie?",
@@ -563,9 +563,9 @@ return [
     "settings_feather_up"       => "Feder Modus",
     "settings_feather"          => "Feder Modus lässt dich Videos auch auf schwache Geräte ohne Probleme gucken.",
     "settings_mobile_up"        => "Mobiles Scaling",
-    "settings_mobile"           => "Wenn Mobiles Scaling deaktiviert ist, wird VidLii auf Mobile Geräte genauso wie auf den Desktop angezeigt.",
+    "settings_mobile"           => "Wenn Mobiles Scaling deaktiviert ist, wird Vlare auf Mobile Geräte genauso wie auf den Desktop angezeigt.",
     "settings_turbo_up"         => "Turbo-laden",
-    "settings_turbo"            => "Turbo-laden macht VidLii um ein vielfaches schneller. Allerdings falls sie irgendwelche Probleme damit haben, können sie dieses hier deaktivieren.",
+    "settings_turbo"            => "Turbo-laden macht Vlare um ein vielfaches schneller. Allerdings falls sie irgendwelche Probleme damit haben, können sie dieses hier deaktivieren.",
     "settings_search_up"        => "Such-historie",
     "settings_search"           => "Um die Suche zu verbessern speichern wir ihre Suchen. Sie können das Speichern hier deaktivieren",
     "settings_popout_up"        => "Pop-Out Player",
@@ -808,7 +808,7 @@ return [
 
     // Guidelines
     "guide_nudity"				=> "Nacktheit & sexuelle Inhalte",
-    "guide_nudity_txt"			=> "VidLii ist keine Porno Seite. Tut mir leid Sie zu enttäuschen wenn sie danach gesucht haben. Dies heisst, dass sexuelle Aktivitäten oder Nackheit aus nicht-bildungshaftigen Gründen nicht erlaubt sind. Das Gleiche gilt für Animationen!<br>Erst recht erlauben wir dies nicht in Verbindung mit Kinder und falls es dazu kommt wird es an die Polizei weitergeleitet!",
+    "guide_nudity_txt"			=> "Vlare ist keine Porno Seite. Tut mir leid Sie zu enttäuschen wenn sie danach gesucht haben. Dies heisst, dass sexuelle Aktivitäten oder Nackheit aus nicht-bildungshaftigen Gründen nicht erlaubt sind. Das Gleiche gilt für Animationen!<br>Erst recht erlauben wir dies nicht in Verbindung mit Kinder und falls es dazu kommt wird es an die Polizei weitergeleitet!",
 
     "guide_danger"				=> "Schockende/Gefährliche Inhalte",
     "guide_danger_txt"			=> "Inhalte dessen alleiniger Grund es ist zu schocken oder gefährliche Aktivitäten ermutigen sind nicht erlaubt. Besonders dann wenn das Ziel Kinder sind!",
@@ -828,17 +828,17 @@ return [
     "guide_bans"				=> "Bans & Blocks",
     "guide_bans_txt"			=> "Falls Sie gebannt oder von jemanden geblockt wurden, sind Sie nicht erlaubt Accounts welche nach den Ban erstellt wurden zu besitzen oder sich darin anzumelden.<br>Personen welche Ihnen Zugriff zu diesen Accounts geben werden auf die selbe Art und Weise bestraft wie sie.",
 
-    "guide_community"			=> "VidLii ist für die Gemeinschaft!",
+    "guide_community"			=> "Vlare ist für die Gemeinschaft!",
     "guide_community_txt"		=> "
     								<div>
-						                <div>Denken Sie dran, dass dies ihre Gemeinschaft ist! Jedes Mitglied von VidLii macht die Seite zu das, was sie ist also habe keine Angst mitzumachen!</div>
+						                <div>Denken Sie dran, dass dies ihre Gemeinschaft ist! Jedes Mitglied von Vlare macht die Seite zu das, was sie ist also habe keine Angst mitzumachen!</div>
 						                <ul style=\"line-height:22px\">
 						                    <li>Habe Spaß mit der Seite. Es gibt eine Menge toller Videos zu sehen und Sie werden vielleicht einer der Personen werden welche diese tollen Videos machen</li>
 						                    <li>Wenn Sie glauben, dass jemand die Regeln bricht, habe keine Angst sie zu melden. Wir werden auch nicht sagen wer sie gemeldet hat.</li>
-						                    <li>Die Regeln zu befolgen macht VidLii eine bessere Erfahrung für jeden.</li>
+						                    <li>Die Regeln zu befolgen macht Vlare eine bessere Erfahrung für jeden.</li>
 						                </ul>
 						                <div style=\"margin-bottom:8px\">Das wars! Danke fürs lesen!</div>
-						                <div>~ Die VidLii Moderation</div>
+						                <div>~ Die Vlare Moderation</div>
 						            </div>
 	",
 	// Account
@@ -876,8 +876,8 @@ return [
     "dash_customize_comments"   => "Video Kommentare",
     "dash_customize_stats"      => "Statistik für diese Woche",
     "dash_customize_notif"      => "Benachrichtigungen",
-    "dash_customize_blog"       => "VidLii Blog",
-    "dash_customize_tips"       => "VidLii Tipps & Tricks",
+    "dash_customize_blog"       => "Vlare Blog",
+    "dash_customize_tips"       => "Vlare Tipps & Tricks",
 
     "dash_no_comments"          => "Sie haben keine Kommentare",
     "dash_no_notifications"     => "Sie haben keine Benachrichtigungen",
@@ -902,7 +902,7 @@ return [
                                     </div>",
     "dash_tip3"                 => "<h3>Teilen sie ihre Videos</h3>
                                     <div>
-                                      Seine Videos mit Menschen außerhalb von VidLii zu teilen erhöht nicht nur die Aufufe sonder erzeugt auch potenziel neue Mitglieder und Follower.
+                                      Seine Videos mit Menschen außerhalb von Vlare zu teilen erhöht nicht nur die Aufufe sonder erzeugt auch potenziel neue Mitglieder und Follower.
                                     </div>",
 
     "dash_comment_on"           => "Auf [title]"
