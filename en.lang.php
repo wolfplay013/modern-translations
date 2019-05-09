@@ -80,7 +80,7 @@ return [
     "nav_all_channels"      => "All Channels",
     "nav_blogs"             => "Channel Blogs",
     "nav_groups"            => "Groups",
-    "nav_watch_history"     => "Watch History",
+    "nav_watch_history"     => "My History",
     "nav_statistics"        => "Statistics",
     "nav_settings"          => "Settings",
     "nav_community"			=> "Community",
@@ -104,7 +104,7 @@ return [
     "nav_footer_about"      => "About Us",
     "nav_footer_help"       => "Help",
     "nav_footer_guidelines" => "Guidelines",
-    "nav_footer_terms"      => "Terms of Use",
+    "nav_footer_terms"      => "Terms of Service",
     "nav_footer_privacy"    => "Privacy Policy",
     "nav_footer_copyright"  => "Copyright",
 
@@ -402,6 +402,7 @@ return [
 
     "group_settings_menu_general"       => "General",
     "group_settings_menu_members"       => "Members",
+    "group_settings_menu_videos"        => "Videos",
     "group_settings_menu_design"        => "Design",
     "group_settings_menu_save"          => "Save",
 
@@ -534,7 +535,7 @@ return [
     "stats_u_minutes_week"      => "Minutes This Week",
     "stats_u_minutes_total"     => "Minutes Watched Total",
     "stats_u_videos"            => "Videos",
-    "stats_u_comments"          => "Video Comments",
+    "stats_v_comments"          => "Video Comments",
     "stats_u_ratings"           => "Video Ratings",
     "stats_u_views"             => "Video Views",
     "stats_u_comments"          => "Channel Comments",

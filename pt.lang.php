@@ -531,7 +531,7 @@ return [
     "stats_u_minutes_week"      => "Minutos Essa Semana",
     "stats_u_minutes_total"     => "Total de Minutos Assistidos",
     "stats_u_videos"            => "Videos",
-    "stats_u_comments"          => "Comentarios de Videos",
+    "stats_v_comments"          => "Comentarios de Videos",
     "stats_u_ratings"           => "Avaliações de Videos",
     "stats_u_views"             => "Visualizações de Videos",
     "stats_u_comments"          => "Comentarios de Canais",

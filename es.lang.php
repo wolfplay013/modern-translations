@@ -534,7 +534,7 @@ return [
     "stats_u_minutes_week"      => "Tiempo visto esta semana",
     "stats_u_minutes_total"     => "Tiempo visto en total",
     "stats_u_videos"            => "Vídeos",
-    "stats_u_comments"          => "Comentarios en vídeos",
+    "stats_v_comments"          => "Comentarios en vídeos",
     "stats_u_ratings"           => "Puntuaciones",
     "stats_u_views"             => "Visitas",
     "stats_u_comments"          => "Comentarios en canales",

@@ -531,7 +531,7 @@ return [
     "stats_u_minutes_week"      => "Minutes This Week",
     "stats_u_minutes_total"     => "Minutes Watched Total",
     "stats_u_videos"            => "Videos",
-    "stats_u_comments"          => "Video Comments",
+    "stats_v_comments"          => "Video Comments",
     "stats_u_ratings"           => "Video Ratings",
     "stats_u_views"             => "Video Views",
     "stats_u_comments"          => "Channel Comments",

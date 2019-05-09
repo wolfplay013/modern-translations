@@ -533,7 +533,7 @@ return [
     "stats_u_minutes_week"      => "Gesehene Minuten diese Woche",
     "stats_u_minutes_total"     => "Gesehene Minuten insgesammt",
     "stats_u_videos"            => "Videos",
-    "stats_u_comments"          => "Video Kommentare",
+    "stats_v_comments"          => "Video Kommentare",
     "stats_u_ratings"           => "Video Bewertungen",
     "stats_u_views"             => "Video Aufrufe",
     "stats_u_comments"          => "Kanal Kommentare",

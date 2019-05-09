@@ -533,7 +533,7 @@ return [
     "stats_u_minutes_week"      => "Minuty obejrzane w tym tygodniu",
     "stats_u_minutes_total"     => "Minuty obserwowane razem",
     "stats_u_videos"            => "Liczba filmów",
-    "stats_u_comments"          => "Liczba komentarzy pod filmami",
+    "stats_v_comments"          => "Liczba komentarzy pod filmami",
     "stats_u_ratings"           => "Liczba ocen pod filmami",
     "stats_u_views"             => "Liczba wyświetleń",
     "stats_u_comments"          => "Liczba komentarzy pod kanałem",
