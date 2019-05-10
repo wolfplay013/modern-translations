@@ -1,4 +1,10 @@
 <?php
+
+// POLISH VLARE TRANSLATION
+// Created by: vistafan12, MrNovak, Masie
+// Thanks to all those who helped with this translation - whether correcting stupid bugs or making new fixes!
+// ver 100519
+
 return [
 
     // Numbers & other simple things
@@ -48,29 +54,29 @@ return [
     // Video Categories
 
     "category_animation"    => "Animacja i film",
-    "category_autos"        => "Auta i mechanizmy",
-    "category_beauty"       => "Styl",
-    "category_comedy"       => "Komedia",
+    "category_autos"        => "Motoryzacja",
+    "category_beauty"       => "Styl i uroda",
+    "category_comedy"       => "Śmieszne",
     "category_education"    => "Edukacja",
     "category_entertainment"=> "Rozrywka",
     "category_gaming"       => "Gry",
     "category_music"        => "Muzyka",
     "category_news"         => "Wiadomości",
     "category_nonprofits"   => "Organizacje non-profit i aktywizm",
-    "category_pets"         => "Psy i Zwierzęta",
+    "category_pets"         => "Zwierzęta",
     "category_politics"     => "Polityka",
-    "category_reviews"      => "Recenzja",
+    "category_reviews"      => "Recenzje",
     "category_science"      => "Technologia i nauka",
     "category_sports"       => "Sport",
     "category_travel"       => "Podróże i wydarzenia",
-    "category_tutorials"    => "Poradniki i instrukcje",
+    "category_tutorials"    => "Poradniki",
     "category_vlogs"        => "Vlogi",
 
 
     // Navigation
 
     "nav_home"              => "Strona główna",
-    "nav_follow"            => "Moi obserwowani",
+    "nav_follow"            => "Obserwowani",
     "nav_trending_videos"   => "Popularne filmy",
     "nav_featured"          => "Promowane filmy",
     "nav_videos"            => "Wszystkie filmy",
@@ -82,14 +88,14 @@ return [
     "nav_statistics"        => "Statystyki",
     "nav_settings"          => "Ustawienia",
     "nav_community"			=> "Społeczność",
-    "nav_about"				=> "O tobie",
+    "nav_about"				=> "Osobiste",
     "nav_signin"            => "Zaloguj się",
     "nav_signup"            => "Zarejestruj się",
 
     "nav_search_text"       => "Szukaj",
-    "nav_search_text_mobile"=> "Wpisz szukaną fraze...",
+    "nav_search_text_mobile"=> "Wpisz szukaną frazę...",
     "nav_upload_text"       => "Prześlij film",
-    "nav_cannot_upload"     => "Nie możesz dodać!",
+    "nav_cannot_upload"     => "Nie możesz dodać filmu!",
     "nav_notification_text" => "Powiadomienia",
 
     "nav_drop_channel"      => "Mój kanał",
@@ -106,7 +112,7 @@ return [
     "nav_footer_privacy"    => "Polityka prywatności",
     "nav_footer_copyright"  => "Prawa autorskie",
 
-    "nav_mark_as_read"      => "oznacz jako przeczytane",
+    "nav_mark_as_read"      => "Oznacz jako przeczytane",
     "nav_notif_commented"   => "Skomentowano",
     "nav_notif_replied"     => "Odpisano",
 
@@ -158,7 +164,7 @@ return [
 
     // Homepage
 
-    "home_being_watched"    => "Filmy oglądane w tym czasie",
+    "home_being_watched"    => "Filmy oglądane w tej chwili",
     "home_trending_videos"  => "Popularne filmy",
     "home_recommended"      => "Proponowane filmy",
     "home_trending_channels"=> "Proponowane kanały",
@@ -188,7 +194,7 @@ return [
     "follow_up_videos"      => "Filmy",
     "follow_up_blogs"       => "Blogi",
     "follow_up_activity"    => "Aktywność",
-    "follow_nobody"         => "Nie obserwujesz nikogo w tej chwili...",
+    "follow_nobody"         => "Nikogo w tej chwili nie obserwujesz...",
 
     "follow_name_no_videos" => "[name] nie dodał jeszcze nowych filmów!",
     "follow_no_videos"      => "Twoje obserwowane kanały nie przesłały jeszcze żadnych filmów!",
@@ -205,17 +211,17 @@ return [
     "allvideos_categories"      => "Kategorie",
     "allvideos_newest"          => "Najnowsze",
     "allvideos_viewed"          => "Najczęściej oglądane",
-    "allvideos_discussed"       => "Najczęściej dyskutowane",
+    "allvideos_discussed"       => "Najczęściej komentowane",
     "allvideos_rated"           => "Najczęściej oceniane",
 
     "allvideos_title_latest"    => "Najnowsze",
     "allvideos_title_views"     => "Najczęściej oglądane",
-    "allvideos_title_discuss"   => "Najczęściej dyskutowane",
+    "allvideos_title_discuss"   => "Najczęściej komentowane",
     "allvideos_title_rated"     => "Najczęściej oceniane",
 
     "allvideos_title_latest2"   => "Najnowsze filmy w [category]",
     "allvideos_title_views2"    => "Najczęściej oglądane w [category]",
-    "allvideos_title_discuss2"  => "Najczęściej dyskutowane w [category]",
+    "allvideos_title_discuss2"  => "Najczęściej komentowane w [category]",
     "allvideos_title_rated2"    => "Najczęściej oceniane w [category]",
 
     "allvideos_no"              => "Nie znaleziono żadnych filmów",
@@ -287,9 +293,9 @@ return [
     "blogs_popular"         => "Popularni Autorzy",
     "blogs_trending_posts"  => "Posty zdobywające popularność",
     "blogs_contro_posts"    => "Kontrowersyjne posty",
-    "blogs_writers_popular" => "Najbardziej Popularne",
-    "blogs_writers_active"  => "Najbardziej Aktywne",
-    "blogs_writers_contro"  => "Najbardziej Controwersyjne",
+    "blogs_writers_popular" => "Najbardziej popularne",
+    "blogs_writers_active"  => "Najbardziej aktywne",
+    "blogs_writers_contro"  => "Najbardziej kontrowersyjne",
     "blogs_write"           => "Napisz post!",
 
     "blogs_write_title"     => "Napisz post",
@@ -446,7 +452,7 @@ return [
 
     "group_topics_create_title"         => "Utwórz nowy temat",
     "group_topics_create_enter_title"   => "Wprowadź tytuł swojego tematu",
-    "group_topics_create_content"       => "O czym powinien być ten temat? (To będzie pierwszy post, który zobaczą ludzie)",
+    "group_topics_create_content"       => "O czym powinien być ten temat? (To będzie pierwszy post, który użytkownicy zobaczą)",
     "group_topics_create_create"        => "Utwórz temat",
     "group_topics_title"                => "Tytuł",
     "group_topics_replies"              => "Odpowiedzi",
@@ -459,7 +465,7 @@ return [
     "group_topic_bookmark"              => "ZAZNACZ TEMAT",
     "group_topic_reply"                 => "ODPOWIEDZ NA TEMAT",
     "group_topic_reply2_up"             => "Odpowiedz na ten temat",
-    "group_topic_reply2"                => "Pamiętaj aby pozostać na temat i nie łamać żadnych zasad.",
+    "group_topic_reply2"                => "Pamiętaj aby pisać na temat i nie łamać żadnych zasad.",
     "group_topic_reply_textbox"         => "Napisz odpowiedź...",
     "group_topic_button1"               => "WYŚLIJ",
     "group_topic_button2"               => "WYCZYŚĆ",
@@ -467,26 +473,26 @@ return [
     "group_chat_title"                  => "Czat",
     "group_chat_online"                 => "Online",
     "group_chat_offline"                => "Offline",
-    "group_chat_write"                  => "Napisz coś tutaj...",
+    "group_chat_write"                  => "Napisz tu coś...",
     "group_chat_post"                   => "DODAJ",
 
     "group_category_animation"    => "Animacja i film",
-    "group_category_autos"        => "Auta i mechanizmy",
-    "group_category_beauty"       => "Styl",
-    "group_category_comedy"       => "Komedia",
+    "group_category_autos"        => "Motoryzacja",
+    "group_category_beauty"       => "Styl i uroda",
+    "group_category_comedy"       => "Śmieszne",
     "group_category_education"    => "Edukacja",
     "group_category_entertainment"=> "Rozrywka",
     "group_category_gaming"       => "Gry",
     "group_category_music"        => "Muzyka",
     "group_category_news"         => "Wiadomości",
     "group_category_nonprofits"   => "Organizacje non-profit i aktywizm",
-    "group_category_pets"         => "Psy i Zwierzęta",
+    "group_category_pets"         => "Zwierzęta",
     "group_category_politics"     => "Polityka",
     "group_category_reviews"      => "Recenzja",
     "group_category_science"      => "Technologia i nauka",
     "group_category_sports"       => "Sport",
     "group_category_travel"       => "Podróże i wydarzenia",
-    "group_category_tutorials"    => "Poradniki i instrukcje",
+    "group_category_tutorials"    => "Poradniki",
     "group_category_vlogs"        => "Vlogi",
     "group_category_fandom"             => "Fandom",
 
@@ -516,22 +522,22 @@ return [
 
     // Statistics
 
-    "stats_about_you"           => "O TOBIE",
-    "stats_about_us"            => "O NAS",
+    "stats_about_you"           => "TWOJE",
+    "stats_about_us"            => "NASZE",
     "stats_updates"             => "Aktualizacje w czasie rzeczywistym",
-    "stats_y_minutes_today"     => "Minuty obserwowane dzisiaj",
+    "stats_y_minutes_today"     => "Ilość obejrzanych minut",
     "stats_y_activity"          => "Poziom aktywności",
-    "stats_y_minutes_total"     => "Minuty obserwowane razem",
-    "stats_y_first_video"       => "Pierszy obejrzany film",
+    "stats_y_minutes_total"     => "Łączna ilość obejrzanych minut",
+    "stats_y_first_video"       => "Pierwszy obejrzany film",
     "stats_y_video_total"       => "Ilość obejrzanych filmów",
     "stats_y_language"          => "Twój język",
 
-    "stats_u_due"               => "Ze względu na ogromną liczbę żądań dotyczących statystyk postanowiłem upublicznić je i pozwolić im się aktualizować w czasie rzeczywistym.",
+    "stats_u_due"               => "Ze względu na ogromną liczbę żądań dotyczących statystyk postanowiliśmy upublicznić je i pozwolić im się aktualizować w czasie rzeczywistym.",
     "stats_uptodate"            => "Nasze aktualne statystyki",
 
-    "stats_u_minutes_today"     => "Minuty obserwowane dzisiaj",
+    "stats_u_minutes_today"     => "Dzisiejsza ilość obejrzanych minut",
     "stats_u_minutes_week"      => "Minuty obejrzane w tym tygodniu",
-    "stats_u_minutes_total"     => "Minuty obserwowane razem",
+    "stats_u_minutes_total"     => "Łączna ilość obejrzanych minut",
     "stats_u_videos"            => "Liczba filmów",
     "stats_v_comments"          => "Liczba komentarzy pod filmami",
     "stats_u_ratings"           => "Liczba ocen pod filmami",
@@ -554,22 +560,22 @@ return [
     // Settings
 
     "settings_attention_up"     => "Uwaga",
-    "settings_attention"        => "Odkąd do zmiany ustawieć nie potrzeba konta, używamy cookies do identyfikacji, kim jesteś. Więc wyczyść ciasteczka przez twoją przeglądarkę, to ustawienia Vlare też znikną.",
+    "settings_attention"        => "Nie potrzebujesz konta do zmiany ustawień strony dzięki ciasteczkom których używamy do identyfikacji kim jesteś. Więc jeśli wyczyścisz ciasteczka to ustawienia Vlare także znikną",
     "settings_visual"           => "Ustawienia wizualne",
     "settings_technical"        => "Ustawienia techniczne",
     "settings_language"         => "Język",
     "settings_light"            => "Jasny tryb",
     "settings_dark"             => "Ciemny tryb",
     "settings_feather_up"       => "Tryb lekki",
-    "settings_feather"          => "Tryb lekki umożliwia oglądanie filmów nawet na najsłabszych sprzętach, zmniejszając komplikacje strony",
+    "settings_feather"          => "Tryb lekki pozwala na dowolne oglądanie filmów nawet na najsłabszych urządzeniach poprzez zmniejszenie użycia zasobów",
     "settings_mobile_up"        => "Skalowanie mobilne",
-    "settings_mobile"           => "Jeśli wyłączone, na telefonach pokazuje się pełna strona komputerowa.",
+    "settings_mobile"           => "Jeśli wyłączone, na telefonie pokaże się pełna strona komputerowa.",
     "settings_turbo_up"         => "Szybkie ładowanie",
-    "settings_turbo"            => "Szybkie ładowanie bardzo zmniejsza czas ładowanie strony. Jednak ludzie wolą normalne ładowanie, albo mająprzeglądarkę która nie współpracuje, więc można to tu wyłączyć",
+    "settings_turbo"            => "Szybkie ładowanie bardzo zmniejsza czas ładowania strony. Ale jeśli wolisz normalne ładowanie, lub masz przeglądarkę która nie współpracuje z tym ustawieniem to możesz to wyłączyć.",
     "settings_search_up"        => "Hisoria wyszukiwania",
-    "settings_search"           => "Żeby poprawić twoje odczucia z używania, zapisujemy twoje wyszukiwania. Jesli tego nie lubisz, możesz to tu wyłączyć.",
+    "settings_search"           => "Aby poprawić twoje odczucia z używania, zapisujemy twoją historię wyszukiwania. Ale spokojnie, możesz to wyłączyć.",
     "settings_popout_up"        => "Odtwarzacz pop-up",
-    "settings_popout"           => "Jeśli jesteś na stronie filmu i odtwarzacz nie jest już wyświetlany, pokaż go w prawym górnym rogu strony.",
+    "settings_popout"           => "Jeśli jesteś na stronie filmu i odtwarzacz jest zakryty, pokaż go w prawym górnym rogu strony.",
 
 
     // Video Page
@@ -577,16 +583,16 @@ return [
     "video_actions_share"       => "Udostępnij",
     "video_actions_favorite"    => "Dodaj do ulubionych",
     "video_actions_unfavorite"  => "Usuń do ulubionych",
-    "video_actions_playlists"	=> "Playlisyu",
+    "video_actions_playlists"	=> "Playlisty",
     "video_actions_flag"		=> "Zgłoś",
 
     "video_info_uploaded"		=> "Wrzucone",
     "video_info_published"		=> "Upublicznione",
     "video_info_edit"			=> "EDYTUJ FILM",
-    "video_info_enter"			=> "Napisz opis...",
+    "video_info_enter"			=> "Wpisz opis...",
     "video_info_category"		=> "Kategoria",
     "video_info_language"		=> "Język",
-    "video_info_license"		=> "Licecja",
+    "video_info_license"		=> "Licencja",
     "video_info_expand"			=> "Rozszerz",
     "video_info_collapse"		=> "Zwiń",
 
@@ -618,20 +624,20 @@ return [
     // Upload
 
     "upload_title"              => "Wrzucanie filmu",
-    "upload_max"                => "Największa możliwa waga:",
+    "upload_max"                => "Największy możliwy rozmiar:",
     "upload_length"             => "<span style=\"color: #383838\">Największa możliwa długość:</span> 30 minut",
     "upload_types"              => "<span style=\"color: #383838\">Typy filmów:</span> Wszystkie typy filmów",
     "upload_more"               => "Więcej o wrzucaniu",
 
-    "upload_select"             => "Wybierz filmy kliknięciem",
-    "upload_select2"            => "lub przeciągnięciem pliki",
+    "upload_select"             => "Wybierz filmy jednym kliknięciem",
+    "upload_select2"            => "lub przeciągnięciem pliku",
     "upload_select3"            => "Zrzuć plik tutaj",
 
 
     // Channel
 
     "channel_up_videos"				=> "Filmy",
-    "channel_up_favorites"			=> "Ulubiony",
+    "channel_up_favorites"			=> "Ulubione",
     "channel_up_blog"				=> "Posty",
     "channel_up_views"				=> "Wyświetlenia",
     "channel_up_followers"			=> "Obserwatorzy",
@@ -647,7 +653,7 @@ return [
     "channel_side_signup"			=> "Założono",
     "channel_side_lastlogin"		=> "Ostatnie logowanie",
     "channel_side_country"			=> "Państwo",
-    "channel_side_more"				=> "Więcej o",
+    "channel_side_more"				=> "Więcej o [name]",
     "channel_side_birthday"			=> "Urodziny",
     "channel_side_books"			=> "Książki",
     "channel_side_city"				=> "Miasto",
@@ -684,7 +690,7 @@ return [
     "channel_comments_write_login"	=> "Zaloguj się, aby napisać komentarz...",
     "channel_comments_only_friends" => "Tylko przyjaciele mogą komentować",
     "channel_comments_blocked"      => "Jesteś zablokowany, [name]",
-    "channel_comments_blocked2"     => "[name] zablokował cię",
+    "channel_comments_blocked2"     => "[name] cię zablokował",
     "channel_comments_disabled"     => "Komentowanie są zablokowane...",
     "channel_comments_delete"		=> "Usuń komentarz",
     "channel_comments_sort_recent"	=> "Najnowsze",
@@ -718,7 +724,7 @@ return [
     "channel_stn_g_link"			=> "Link do kanału",
     "channe_stn_g_link_wait"		=> "Poczekaj, aż otrzymasz niestandardowy link",
     "channel_stn_g_keywords"		=> "Słowa kluczowe kanału",
-    "channel_stn_g_keywords_txt"	=> "Użyj słów, dzięki którym będzie można szukać kanału",
+    "channel_stn_g_keywords_txt"	=> "Użyj słów, dzięki którym będzie można wyszukać kanał",
     "channel_stn_g_type"			=> "Typ kanału",
     "channel_stn_g_requests"		=> "Zaproszenia do znajomych",
     "channel_stn_g_comments"		=> "Komentarze na kanale",
