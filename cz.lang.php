@@ -818,94 +818,94 @@ return [
     "guide_stalking"			=> "Pronásledování/ohrožení",
     "guide_stalking_txt"		=> "Pronásledování, vyhrožování nebo únik některých informací není dovoleno, ať už je to veřejná postava, nebo ne.",
 
-    "guide_impersonation"		=> "Impersonation",
-    "guide_impersonation_txt"	=> "Don't impersonate someone. Be it an internet-celebrity, a regular celebrity or someone you know in real life. Clearly state that you're not them.",
+    "guide_impersonation"		=> "Předstírání identity",
+    "guide_impersonation_txt"	=> "Nepředstírej někoho. Ať už je to internetová celebrita, pravidelná celebrita nebo někdo, koho znáte v reálném životě. Jasně uveďte, že nejste oni.",
 
     "guide_spamming"			=> "Spamování/zavádění",
     "guide_spamming_txt"		=> "Každý nesnáší spam. Nevytvářejte zavádějící popisy, značky, tituly ani miniatury, abyste zvýšili počet zobrazení. Není v pořádku zveřejňovat velké množství necíleného, nechtěného nebo opakujícího se obsahu, včetně komentářů a soukromých zpráv.",
 
-    "guide_advert"				=> "Advertising",
-    "guide_advert_txt"			=> "Advertisements for Services or Websites in video or comment form unless they're a direct reply to someone not related to that website/service aren't allowed.",
+    "guide_advert"				=> "Reklamy",
+    "guide_advert_txt"			=> "Reklamy na služby nebo webové stránky ve formě videa nebo komentáře, pokud nejsou přímou odpovědí někomu, kdo není spojen s tímto webem / službou, nejsou povoleny.",
 
-    "guide_bans"				=> "Bans & Blocks",
-    "guide_bans_txt"			=> "After you've been banned or blocked by someone, you aren't allowed to own or sign into any Vlare accounts that have been created after you've been banned or blocked even if it has been created by someone else.<br>People that give you access may be punished the same way you were.",
+    "guide_bans"				=> "Bany a bloky",
+    "guide_bans_txt"			=> "Poté, co vám někdo zabanoval nebo blokoval, nemůžete vlastnit nebo se přihlásit k účtům Vlare, které byly vytvořeny poté, co vám byl zabanovány nebo zablokovány, i když byl vytvořen nějakým jiným. <br>Lidé které vám umožní přístup, mohou být potrestány stejným způsobem, jakým jste byli.",
 
-    "guide_community"			=> "Vlare is for the community!",
+    "guide_community"			=> "Vlare je pro jeho komunitu!",
     "guide_community_txt"		=> "
     								<div>
-						                <div>Remember that this is your community! Each and every user of Vlare makes the site what it is, so don't be afraid to dig in and get involved!</div>
+						                <div>Zapamatuj si to tohle je tvoje komunita! Každý uživatel Vlare dělá síť jak to je, takže nebuď vystrašení aby jsi zakopal tady a zapojil se!</div>
 						                <ul style=\"line-height:22px\">
-						                    <li>Have fun with the site. There's a lot to see here, and lots of folks making amazing stuff one of them might be you! Equipment's getting cheaper and easier to use all the time, so dive in and enjoy.</li>
-						                    <li>If you feel like someone is breaking the rules don't be afraid to report them. They will not know who reported them</li>
-						                    <li>Following the rules makes Vlare a better experience for everyone.</li>
+						                    <li>Bavte se s webem. Je tu hodně co vidět a spousta lidí, kteří dělají úžasné věci, jedním z nich může být vy! Zařízení je stále levnější a snadněji se používá po celou dobu, takže se potápějte a užívejte si.</li>
+						                    <li>Pokud máte pocit, že někdo porušuje pravidla, nebojte se je nahlásit. Nebudou vědět, kdo je nahlásil</li>
+						                    <li>Dodržování pravidel dělá z Vlare lepší zážitek pro každého.</li>
 						                </ul>
-						                <div style=\"margin-bottom:8px\">That's it! Thanks for reading!</div>
-						                <div>~ The Vlare Moderation</div>
+						                <div style=\"margin-bottom:8px\">To je všechno Děkujeme za čtení!</div>
+						                <div>~ Moderace vlare</div>
 						            </div>
 	",
 	// Account
 
-	"ac_menu_dashboard"			=> "Dashboard",
-	"ac_menu_channel"			=> "Channel",
-	"ac_menu_community"			=> "Community",
-	"ac_menu_account"			=> "Account",
-	"ac_menu_analytics"			=> "Analytics",
-	"ac_menu_privacy"			=> "Privacy",
-	"ac_menu_email"				=> "E-Mail Settings",
+	"ac_menu_dashboard"			=> "Přístrojová deska",
+	"ac_menu_channel"			=> "Kanál",
+	"ac_menu_community"			=> "Komunita",
+	"ac_menu_account"			=> "Účet",
+	"ac_menu_analytics"			=> "Analízy",
+	"ac_menu_privacy"			=> "Soukromí",
+	"ac_menu_email"				=> "Nastavení E-Mailu",
 
-    "ac_top_videos"             => "Videos",
-    "ac_top_views"              => "Video Views",
-    "ac_top_viewstoday"         => "Views Today",
-    "ac_top_followers"          => "Followers",
-    "ac_top_followerstoday"     => "Followers Today",
-    "ac_top_thumbs"             => "Thumbs Up",
-    "ac_top_thumbstoday"        => "Thumbs Up Today",
-    "ac_top_edit"               => "Edit",
+    "ac_top_videos"             => "Videa",
+    "ac_top_views"              => "Zhlédnutí videí",
+    "ac_top_viewstoday"         => "Zhlednutí dneska",
+    "ac_top_followers"          => "Sledující",
+    "ac_top_followerstoday"     => "Sledující Dneska",
+    "ac_top_thumbs"             => "Palce nahorů",
+    "ac_top_thumbstoday"        => "Palce nahorů dneska",
+    "ac_top_edit"               => "Upravit",
 
 
 	// Content
 
-	"cnt_menu_videos"			=> "Videos",
-	"cnt_menu_blog"				=> "Blog Posts",
-	"cnt_menu_favorites"		=> "Favorites",
-	"cnt_menu_playlists"		=> "Playlists",
+	"cnt_menu_videos"			=> "Videa",
+	"cnt_menu_blog"				=> "Napsané blogy",
+	"cnt_menu_favorites"		=> "Oblíbené",
+	"cnt_menu_playlists"		=> "Seznamy",
 
 
     // Dashboard
 
-    "dash_customize"            => "Customize Dashboard",
-    "dash_customize_popular"    => "Your Popular Videos",
-    "dash_customize_comments"   => "Video Comments",
-    "dash_customize_stats"      => "Statistics This Week",
-    "dash_customize_notif"      => "Notifications",
-    "dash_customize_blog"       => "Vlare Blog",
-    "dash_customize_tips"       => "Vlare Tips & Tricks",
+    "dash_customize"            => "Přizpůsobte řídicí panel",
+    "dash_customize_popular"    => "Tvoje populární videa",
+    "dash_customize_comments"   => "Komentáře videa",
+    "dash_customize_stats"      => "Statistiky tvých videí",
+    "dash_customize_notif"      => "Oznámení",
+    "dash_customize_blog"       => "Vlare Blogy",
+    "dash_customize_tips"       => "Vlare Tipy & Triky",
 
-    "dash_no_comments"          => "You have no comments",
-    "dash_no_notifications"     => "You have no notifications",
-    "dash_no_blog"              => "No blog posts have been written yet",
+    "dash_no_comments"          => "Ty nemáš žádné komentáře!",
+    "dash_no_notifications"     => "Ty nemáš žádná oznámení!",
+    "dash_no_blog"              => "Žádné blogy nebyly napsané zatím.",
 
-    "dash_stats_views"          => "Views",
-    "dash_stats_followers"      => "Followers",
-    "dash_stats_comments"       => "Comments",
+    "dash_stats_views"          => "Zhlédnutí",
+    "dash_stats_followers"      => "Sledující",
+    "dash_stats_comments"       => "Komentáře",
 
-    "dash_notif1"               => "Community Strike",
-    "dash_notif2"               => "Copyright Strike",
-    "dash_notif3"               => "Alert",
-    "dash_notif4"               => "Notification",
+    "dash_notif1"               => "Komunitní práva",
+    "dash_notif2"               => "Autorská práva",
+    "dash_notif3"               => "Varování",
+    "dash_notif4"               => "Oznámení",
 
-    "dash_tip1"                 => "<h3>An eye for Statistics</h3>
+    "dash_tip1"                 => "<h3>Oko pro statistiky</h3>
                                     <div>
-                                      Your analytics are the best way to say what is working for you and what is not. Get a feel for it and use them to their full potential.
+                                      Tvoje analíza je nejlepší cesta aby říkalo co funguje pro tebe a co ne. Získejte cit pro to a využít je k jejich plnému potenciálu.
                                     </div>",
-    "dash_tip2"                 => "<h3>Be active</h3>
+    "dash_tip2"                 => "<h3>Buď aktivní</h3>
                                     <div>
-                                      The Algorithm sees who is active in the community and who isn't. It not only counts videos but also other types of activity.
+                                      Algoritmus vidí, kdo je v komunitě aktivní a kdo ne. Počítá nejen videa, ale i další typy aktivit.
                                     </div>",
-    "dash_tip3"                 => "<h3>Share your videos</h3>
+    "dash_tip3"                 => "<h3>Sdílejte tvoje videa</h3>
                                     <div>
-                                      Sharing your videos with people outside of Vlare not only increases your view count, it also creates new potential members and followers.
+                                      Sdílení vašich videí s lidmi mimo Vlare nejen zvyšuje počet zhlédnutí, ale také vytváří nové potenciální členy a sledovatele.
                                     </div>",
 
-    "dash_comment_on"           => "On [title]"
+    "dash_comment_on"           => "Na [title]"
 ];
